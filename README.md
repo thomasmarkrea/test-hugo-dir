@@ -1,3 +1,11 @@
+>
+> This issue has been resolved  
+> https://github.com/gohugoio/hugo/issues/7589
+>
+
+---
+
+
 # Test Hugo .Dir
 
 Used from a standard archetype `.File.Dir` returns a path relative to `content/`.
